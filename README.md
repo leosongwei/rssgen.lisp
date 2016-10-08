@@ -7,12 +7,12 @@ It's like JekyII or Hugo, generating a static 'website' hosting blog. The differ
 
 For manual, please refer to my blog and see how it works and read the source code. (There is no manual)
 
-All I want is to keep it simple, so it can be short as the configuration file of others. Therefore, I won't introduce things like config files. If you want use this script, you are on your own.
+All I want is to keep it simple, so it can be short as the configuration file of others. Therefore, I won't introduce things like config files. If you want to use this script, you are on your own.
 
 Dependence
 ----------
 
-This script is only build for SBCL, if you want to use other implementations of Common Lisp, you will have to adapt it by yourself.
+This script is only built for SBCL, if you want to use other implementations of Common Lisp, you will have to adapt it by yourself.
 
 Depend on:
 
