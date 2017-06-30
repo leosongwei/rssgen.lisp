@@ -237,7 +237,7 @@
                   tags)
           (format out "~%~%")
           (mapcar (lambda (tag)
-                    (format out "###~A<a name=\"~A\"/>~%~%" tag tag)
+                    (format out "### ~A<a name=\"~A\"/>~%~%" tag tag)
                     (let ((v (gethash tag *tags-hash*)))
                       (dolist (file+cldate v)
                         (format out "* [~A](~A)~%"
